@@ -26,21 +26,13 @@ Most teams answer this with a multi-week interview marathon and a 200-row spread
 
 ## How to use
 
-### Option 1 — Single file, works offline
+### Single file, works offline
 
 1. Download `maturity-assessment-OFFLINE.html`
 2. Double-click to open in Chrome / Safari / Firefox
 3. Enter your company name and start scoring
 
 That's it. No installation, no internet required.
-
-### Option 2 — Lightweight, needs internet
-
-1. Download `maturity-assessment-CDN.html` and `processes.js`
-2. Put both in the **same folder**
-3. Double-click `maturity-assessment-CDN.html`
-
-This version loads React and dependencies from public CDNs (~50KB total instead of 700KB).
 
 ## The 19 processes covered
 
