@@ -4,6 +4,8 @@ A free, open-source dashboard to assess the maturity of your information securit
 
 Built for CISOs, security leads, and anyone shaping a security strategy who's tired of bloated GRC tools and dead Excel files.
 
+<img width="1242" height="946" alt="pewview-gh" src="https://github.com/user-attachments/assets/a04aff5b-3eb0-45e6-92c6-2027ee62d8ca" />
+
 ## Why this exists
 
 When you start building a security program, the first question is always: **where are we today?**
